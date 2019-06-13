@@ -1,0 +1,42 @@
+D:\ltmt4_k9\QlDiem\BUS\bin\Debug\BUS.dll
+D:\ltmt4_k9\QlDiem\BUS\bin\Debug\BUS.pdb
+D:\ltmt4_k9\QlDiem\BUS\bin\Debug\DAL.dll
+D:\ltmt4_k9\QlDiem\BUS\bin\Debug\DTO.dll
+D:\ltmt4_k9\QlDiem\BUS\bin\Debug\DAL.pdb
+D:\ltmt4_k9\QlDiem\BUS\bin\Debug\DTO.pdb
+D:\ltmt4_k9\QlDiem\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\ltmt4_k9\QlDiem\BUS\obj\Debug\BUS.dll
+D:\ltmt4_k9\QlDiem\BUS\obj\Debug\BUS.pdb
+F:\System Volume Information\QlDiem\BUS\bin\Debug\BUS.dll
+F:\System Volume Information\QlDiem\BUS\bin\Debug\BUS.pdb
+F:\System Volume Information\QlDiem\BUS\bin\Debug\DAL.dll
+F:\System Volume Information\QlDiem\BUS\bin\Debug\DTO.dll
+F:\System Volume Information\QlDiem\BUS\bin\Debug\DAL.pdb
+F:\System Volume Information\QlDiem\BUS\bin\Debug\DTO.pdb
+F:\System Volume Information\QlDiem\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\System Volume Information\QlDiem\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\System Volume Information\QlDiem\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\System Volume Information\QlDiem\BUS\obj\Debug\BUS.dll
+F:\System Volume Information\QlDiem\BUS\obj\Debug\BUS.pdb
+E:\USB\QlDiem\BUS\bin\Debug\BUS.dll
+E:\USB\QlDiem\BUS\bin\Debug\BUS.pdb
+E:\USB\QlDiem\BUS\bin\Debug\DAL.dll
+E:\USB\QlDiem\BUS\bin\Debug\DTO.dll
+E:\USB\QlDiem\BUS\bin\Debug\DAL.pdb
+E:\USB\QlDiem\BUS\bin\Debug\DTO.pdb
+E:\USB\QlDiem\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\USB\QlDiem\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\USB\QlDiem\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\USB\QlDiem\BUS\obj\Debug\BUS.dll
+E:\USB\QlDiem\BUS\obj\Debug\BUS.pdb
+D:\QlDiem\BUS\bin\Debug\BUS.dll
+D:\QlDiem\BUS\bin\Debug\BUS.pdb
+D:\QlDiem\BUS\bin\Debug\DAL.dll
+D:\QlDiem\BUS\bin\Debug\DTO.dll
+D:\QlDiem\BUS\bin\Debug\DAL.pdb
+D:\QlDiem\BUS\bin\Debug\DTO.pdb
+D:\QlDiem\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\QlDiem\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QlDiem\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\QlDiem\BUS\obj\Debug\BUS.dll
+D:\QlDiem\BUS\obj\Debug\BUS.pdb
