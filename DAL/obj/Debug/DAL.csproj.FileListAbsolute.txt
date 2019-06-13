@@ -1,0 +1,34 @@
+D:\ltmt4_k9\QlDiem\DAL\bin\Debug\DAL.dll
+D:\ltmt4_k9\QlDiem\DAL\bin\Debug\DAL.pdb
+D:\ltmt4_k9\QlDiem\DAL\bin\Debug\DTO.dll
+D:\ltmt4_k9\QlDiem\DAL\bin\Debug\DTO.pdb
+D:\ltmt4_k9\QlDiem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\ltmt4_k9\QlDiem\DAL\obj\Debug\DAL.dll
+D:\ltmt4_k9\QlDiem\DAL\obj\Debug\DAL.pdb
+F:\System Volume Information\QlDiem\DAL\bin\Debug\DAL.dll
+F:\System Volume Information\QlDiem\DAL\bin\Debug\DAL.pdb
+F:\System Volume Information\QlDiem\DAL\bin\Debug\DTO.dll
+F:\System Volume Information\QlDiem\DAL\bin\Debug\DTO.pdb
+F:\System Volume Information\QlDiem\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\System Volume Information\QlDiem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\System Volume Information\QlDiem\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\System Volume Information\QlDiem\DAL\obj\Debug\DAL.dll
+F:\System Volume Information\QlDiem\DAL\obj\Debug\DAL.pdb
+E:\USB\QlDiem\DAL\bin\Debug\DAL.dll
+E:\USB\QlDiem\DAL\bin\Debug\DAL.pdb
+E:\USB\QlDiem\DAL\bin\Debug\DTO.dll
+E:\USB\QlDiem\DAL\bin\Debug\DTO.pdb
+E:\USB\QlDiem\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\USB\QlDiem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\USB\QlDiem\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\USB\QlDiem\DAL\obj\Debug\DAL.dll
+E:\USB\QlDiem\DAL\obj\Debug\DAL.pdb
+D:\QlDiem\DAL\bin\Debug\DAL.dll
+D:\QlDiem\DAL\bin\Debug\DAL.pdb
+D:\QlDiem\DAL\bin\Debug\DTO.dll
+D:\QlDiem\DAL\bin\Debug\DTO.pdb
+D:\QlDiem\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\QlDiem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QlDiem\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QlDiem\DAL\obj\Debug\DAL.dll
+D:\QlDiem\DAL\obj\Debug\DAL.pdb
