@@ -1,0 +1,67 @@
+D:\ltmt4_k9\QlDiem\QlDiem\bin\Debug\QlDiem.exe.config
+D:\ltmt4_k9\QlDiem\QlDiem\bin\Debug\QlDiem.exe
+D:\ltmt4_k9\QlDiem\QlDiem\bin\Debug\QlDiem.pdb
+D:\ltmt4_k9\QlDiem\QlDiem\bin\Debug\BUS.dll
+D:\ltmt4_k9\QlDiem\QlDiem\bin\Debug\DTO.dll
+D:\ltmt4_k9\QlDiem\QlDiem\bin\Debug\DAL.dll
+D:\ltmt4_k9\QlDiem\QlDiem\bin\Debug\BUS.pdb
+D:\ltmt4_k9\QlDiem\QlDiem\bin\Debug\DTO.pdb
+D:\ltmt4_k9\QlDiem\QlDiem\bin\Debug\DAL.pdb
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\QlDiem.Form1.resources
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Diem.resources
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Mon.resources
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Sinhvien.resources
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\QlDiem.Properties.Resources.resources
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\QlDiem.exe
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\QlDiem.pdb
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Diemsv.resources
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\RdlCompile.cache
+D:\ltmt4_k9\QlDiem\QlDiem\obj\Debug\RdlCompile.compiled
+E:\QlDiem\QlDiem\bin\Debug\QlDiem.exe.config
+E:\QlDiem\QlDiem\obj\Debug\QlDiem.exe
+E:\QlDiem\QlDiem\obj\Debug\QlDiem.pdb
+F:\System Volume Information\QlDiem\QlDiem\bin\Debug\QlDiem.exe.config
+F:\System Volume Information\QlDiem\QlDiem\obj\Debug\QlDiem.exe
+F:\System Volume Information\QlDiem\QlDiem\obj\Debug\QlDiem.pdb
+F:\System Volume Information\QlDiem\QlDiem\obj\Debug\GUI.csprojAssemblyReference.cache
+F:\System Volume Information\QlDiem\QlDiem\obj\Debug\QlDiem.Form1.resources
+F:\System Volume Information\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Diem.resources
+F:\System Volume Information\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Diemsv.resources
+F:\System Volume Information\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Mon.resources
+F:\System Volume Information\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Sinhvien.resources
+F:\System Volume Information\QlDiem\QlDiem\obj\Debug\QlDiem.Properties.Resources.resources
+F:\System Volume Information\QlDiem\QlDiem\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\System Volume Information\QlDiem\QlDiem\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\USB\QlDiem\QlDiem\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\USB\QlDiem\QlDiem\obj\Debug\QlDiem.Form1.resources
+E:\USB\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Diem.resources
+E:\USB\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Diemsv.resources
+E:\USB\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Mon.resources
+E:\USB\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Sinhvien.resources
+E:\USB\QlDiem\QlDiem\obj\Debug\QlDiem.Properties.Resources.resources
+E:\USB\QlDiem\QlDiem\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\USB\QlDiem\QlDiem\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\USB\QlDiem\QlDiem\obj\Debug\QlDiem.exe
+E:\USB\QlDiem\QlDiem\obj\Debug\QlDiem.pdb
+D:\QlDiem\QlDiem\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\QlDiem\QlDiem\obj\Debug\QlDiem.Form1.resources
+D:\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Diem.resources
+D:\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Mon.resources
+D:\QlDiem\QlDiem\obj\Debug\QlDiem.Frm_Sinhvien.resources
+D:\QlDiem\QlDiem\obj\Debug\QlDiem.Properties.Resources.resources
+D:\QlDiem\QlDiem\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QlDiem\QlDiem\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QlDiem\QlDiem\obj\Debug\QlDiem.exe
+D:\QlDiem\QlDiem\obj\Debug\QlDiem.pdb
+D:\QlDiem\QlDiem\bin\Debug\QlDiem.exe.config
+D:\QlDiem\QlDiem\bin\Debug\QlDiem.exe
+D:\QlDiem\QlDiem\bin\Debug\QlDiem.pdb
+D:\QlDiem\QlDiem\bin\Debug\BUS.dll
+D:\QlDiem\QlDiem\bin\Debug\DTO.dll
+D:\QlDiem\QlDiem\bin\Debug\DAL.dll
+D:\QlDiem\QlDiem\bin\Debug\BUS.pdb
+D:\QlDiem\QlDiem\bin\Debug\DTO.pdb
+D:\QlDiem\QlDiem\bin\Debug\DAL.pdb
+D:\QlDiem\QlDiem\obj\Debug\GUI.csproj.CopyComplete
