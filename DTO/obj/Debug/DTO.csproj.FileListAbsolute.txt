@@ -1,0 +1,16 @@
+D:\ltmt4_k9\QlDiem\DTO\bin\Debug\DTO.dll
+D:\ltmt4_k9\QlDiem\DTO\bin\Debug\DTO.pdb
+D:\ltmt4_k9\QlDiem\DTO\obj\Debug\DTO.dll
+D:\ltmt4_k9\QlDiem\DTO\obj\Debug\DTO.pdb
+F:\System Volume Information\QlDiem\DTO\bin\Debug\DTO.dll
+F:\System Volume Information\QlDiem\DTO\bin\Debug\DTO.pdb
+F:\System Volume Information\QlDiem\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\System Volume Information\QlDiem\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\System Volume Information\QlDiem\DTO\obj\Debug\DTO.dll
+F:\System Volume Information\QlDiem\DTO\obj\Debug\DTO.pdb
+E:\USB\QlDiem\DTO\bin\Debug\DTO.dll
+E:\USB\QlDiem\DTO\bin\Debug\DTO.pdb
+E:\USB\QlDiem\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\USB\QlDiem\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\USB\QlDiem\DTO\obj\Debug\DTO.dll
+E:\USB\QlDiem\DTO\obj\Debug\DTO.pdb
